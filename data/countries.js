@@ -673,7 +673,7 @@ const COUNTRIES = [
       es: "Cabo Verde",
       fr: "Cap-Vert",
       de: "Cabo Verde",
-      bg: "Cabo Verde",
+      bg: "Кабо Верде",
     },
   },
   {
@@ -764,7 +764,7 @@ const COUNTRIES = [
       es: "Chequia",
       fr: "Tchéquie",
       de: "Tschechien",
-      bg: "Czechia",
+      bg: "Чехия",
     },
   },
   {

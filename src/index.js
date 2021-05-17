@@ -30,8 +30,29 @@ const alpha2ByName = (name, locale = "en") => {
   return country.alpha2;
 };
 
+const flagEmojiByName = (name, locale = "en") => {
+  try {
+    const alpha2 = alpha2ByName(name, locale);
+
+    return flagEmojiByAlpha2(alpha2);
+  } catch (error) {
+    console.error(error);
+  }
+};
+
+const flagEmojiByAlpha2 = (alpha2) => {
+  const codePoints = alpha2
+    .toUpperCase()
+    .split("")
+    .map((char) => 127397 + char.charCodeAt());
+
+  return String.fromCodePoint(...codePoints);
+};
+
 export default {
   all,
   nameByAlpha2,
   alpha2ByName,
+  flagEmojiByName,
+  flagEmojiByAlpha2,
 };

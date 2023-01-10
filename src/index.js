@@ -4,6 +4,7 @@ const all = (locale = "en") =>
   COUNTRIES.map((country) => ({
     name: country.translations[locale],
     alpha2: country.alpha2,
+    alpha3: country.alpha3,
   })).sort((a, b) => a.name.localeCompare(b.name));
 
 const nameByAlpha2 = (alpha2, locale = "en") => {

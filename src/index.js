@@ -16,6 +16,16 @@ const nameByAlpha2 = (alpha2, locale = "en") => {
   return country.translations[locale] || country.name;
 };
 
+const nameByAlpha3 = (alpha3, locale = "en") => {
+  const country = COUNTRIES.find((country) => country.alpha3 === alpha3);
+
+  if (!country) {
+    throw new Error(`A country with alpha3 "${alpha3}" not found.`);
+  }
+
+  return country.translations[locale] || country.name;
+};
+
 const alpha2ByName = (name, locale = "en") => {
   const country = COUNTRIES.find(
     (country) => country.translations[locale] === name,
@@ -28,6 +38,20 @@ const alpha2ByName = (name, locale = "en") => {
   }
 
   return country.alpha2;
+};
+
+const alpha3ByName = (name, locale = "en") => {
+  const country = COUNTRIES.find(
+    (country) => country.translations[locale] === name,
+  );
+
+  if (!country) {
+    throw new Error(
+      `A country with name "${name}" not found for locale "${locale}".`,
+    );
+  }
+
+  return country.alpha3;
 };
 
 const flagEmojiByName = (name, locale = "en") => {
@@ -52,7 +76,9 @@ const flagEmojiByAlpha2 = (alpha2) => {
 export default {
   all,
   nameByAlpha2,
+  nameByAlpha3,
   alpha2ByName,
+  alpha3ByName,
   flagEmojiByName,
   flagEmojiByAlpha2,
 };

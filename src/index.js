@@ -1,4 +1,7 @@
-import COUNTRIES from "../data/countries";
+import DEFAULT_COUNTRIES from "../data/countries";
+import MANUAL_COUNTRIES from "../data/custom-countries";
+
+const COUNTRIES = DEFAULT_COUNTRIES.concat(MANUAL_COUNTRIES);
 
 const all = (locale = "en") =>
   COUNTRIES.map((country) => ({

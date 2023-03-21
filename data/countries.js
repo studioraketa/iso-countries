@@ -1,4 +1,4 @@
-// Updated at: 2021-02-05 14:50:04 UTC
+// Updated at: 2023-03-21 07:18:34 UTC
 const COUNTRIES = [
   {
     name: "Aruba",
@@ -476,7 +476,7 @@ const COUNTRIES = [
     translations: {
       en: "Bouvet Island",
       es: "Isla Bouvet",
-      fr: "Bouvet, Île",
+      fr: "île Bouvet",
       de: "Bouvet-Insel",
       bg: "Остров Буве",
     },
@@ -502,7 +502,7 @@ const COUNTRIES = [
     translations: {
       en: "Central African Republic",
       es: "República Centroafricana",
-      fr: "Centrafricaine, République",
+      fr: "République centrafricaine",
       de: "Zentralafrikanische Republik",
       bg: "Централноафриканска Република",
     },
@@ -632,7 +632,7 @@ const COUNTRIES = [
     translations: {
       en: "Cook Islands",
       es: "Islas Cook",
-      fr: "Cook, Îles",
+      fr: "îles Cook",
       de: "Cookinseln",
       bg: "Острови Кук",
     },
@@ -673,7 +673,7 @@ const COUNTRIES = [
       es: "Cabo Verde",
       fr: "Cap-Vert",
       de: "Cabo Verde",
-      bg: "Кабо Верде",
+      bg: "Cabo Verde",
     },
   },
   {
@@ -736,7 +736,7 @@ const COUNTRIES = [
     translations: {
       en: "Cayman Islands",
       es: "Islas Caimán",
-      fr: "Caïman, Îles",
+      fr: "îles Caïmans",
       de: "Cayman-Inseln",
       bg: "Кайманови острови",
     },
@@ -764,7 +764,7 @@ const COUNTRIES = [
       es: "Chequia",
       fr: "Tchéquie",
       de: "Tschechien",
-      bg: "Чехия",
+      bg: "Czechia",
     },
   },
   {
@@ -827,7 +827,7 @@ const COUNTRIES = [
     translations: {
       en: "Dominican Republic",
       es: "República Dominicana",
-      fr: "Dominicaine, République",
+      fr: "République dominicaine",
       de: "Dominikanische Republik",
       bg: "Доминиканска република",
     },
@@ -892,7 +892,7 @@ const COUNTRIES = [
     translations: {
       en: "Western Sahara",
       es: "Sahara Occidental",
-      fr: "Sahara Occidental",
+      fr: "Sahara occidental",
       de: "Westsahara",
       bg: "Западна Сахара",
     },
@@ -970,7 +970,7 @@ const COUNTRIES = [
     translations: {
       en: "Falkland Islands (Malvinas)",
       es: "Islas Falkland (Malvinas)",
-      fr: "Falkland, Îles (Malvinas)",
+      fr: "Malouines, Îles (Falkland)",
       de: "Falklandinseln (Malwinen)",
       bg: "Фолклендски Острови (Малвини)",
     },
@@ -996,7 +996,7 @@ const COUNTRIES = [
     translations: {
       en: "Faroe Islands",
       es: "Islas Feroe",
-      fr: "Féroé, Îles",
+      fr: "îles Féroé",
       de: "Färöer-Inseln",
       bg: "Острови Фаро",
     },
@@ -1256,7 +1256,7 @@ const COUNTRIES = [
     translations: {
       en: "Hong Kong",
       es: "Hong Kong",
-      fr: "Hong-Kong",
+      fr: "Hong Kong",
       de: "Hongkong",
       bg: "Хонг Конг",
     },
@@ -1269,7 +1269,7 @@ const COUNTRIES = [
     translations: {
       en: "Heard Island and McDonald Islands",
       es: "Islas Heard y McDonald",
-      fr: "Heard, Île et McDonald, Îles",
+      fr: "îles Heard-et-MacDonald",
       de: "Heard und McDonaldinseln",
       bg: "Острови Хърд и МакДоналд",
     },
@@ -1373,7 +1373,7 @@ const COUNTRIES = [
     translations: {
       en: "British Indian Ocean Territory",
       es: "Territorio Británico del Océano Índico",
-      fr: "Océan Indien, Territoire britannique de l'",
+      fr: "Territoire britannique de l'océan Indien",
       de: "Britisches Territorium im Indischen Ozean",
       bg: "Английски територии в индийския океан",
     },
@@ -1581,7 +1581,7 @@ const COUNTRIES = [
     translations: {
       en: "Saint Kitts and Nevis",
       es: "San Cristóbal y Nieves",
-      fr: "Saint-Kitts-et-Nevis",
+      fr: "Saint-Christophe-et-Niévès",
       de: "St. Kitts und Nevis",
       bg: "Свети Китс и Невис",
     },
@@ -1873,16 +1873,16 @@ const COUNTRIES = [
     },
   },
   {
-    name: "Macedonia, Republic of",
+    name: "North Macedonia",
     code: "",
     alpha2: "MK",
     alpha3: "MKD",
     translations: {
-      en: "Macedonia, Republic of",
-      es: "Macedonia, República de",
-      fr: "Macédoine, République de",
-      de: "Mazedonien, ehemalige jugoslawische Republik",
-      bg: "Македония, Република",
+      en: "North Macedonia",
+      es: "Macedonia del Norte",
+      fr: "Macédoine du Nord",
+      de: "Nordmazedonien",
+      bg: "North Macedonia",
     },
   },
   {
@@ -2114,7 +2114,7 @@ const COUNTRIES = [
     translations: {
       en: "Norfolk Island",
       es: "Isla Norfolk",
-      fr: "Norfolk, Île",
+      fr: "île Norfolk",
       de: "Norfolkinsel",
       bg: "Остров Норфолк",
     },
@@ -2744,16 +2744,16 @@ const COUNTRIES = [
     },
   },
   {
-    name: "Swaziland",
+    name: "Eswatini",
     code: "",
     alpha2: "SZ",
     alpha3: "SWZ",
     translations: {
-      en: "Swaziland",
+      en: "Eswatini",
       es: "Suazilandia",
-      fr: "Swaziland",
-      de: "Swasiland",
-      bg: "Свазиленд",
+      fr: "Eswatini",
+      de: "Eswatini",
+      bg: "Eswatini",
     },
   },
   {
@@ -2803,7 +2803,7 @@ const COUNTRIES = [
     translations: {
       en: "Turks and Caicos Islands",
       es: "Islas Turcas y Caicos",
-      fr: "Turks et Caïques, Îles",
+      fr: "îles Turques-et-Caïques",
       de: "Turks- und Caicosinseln",
       bg: "Острови Тюрк и Кайкос",
     },
@@ -3089,7 +3089,7 @@ const COUNTRIES = [
     translations: {
       en: "Saint Vincent and the Grenadines",
       es: "San Vicente y las Granadinas",
-      fr: "Saint-Vincent-et-les Grenadines",
+      fr: "Saint-Vincent-et-les-Grenadines",
       de: "St. Vincent und die Grenadinen",
       bg: "Свети Винсент и Гренадин",
     },

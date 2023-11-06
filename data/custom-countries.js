@@ -25,6 +25,19 @@ const COUNTRIES = [
       bg: "Косово",
     },
   },
+  {
+    name: "occupied Palestinian territory, including east Jerusalem",
+    code: "",
+    alpha2: "PS",
+    alpha3: "PSE",
+    translations: {
+      en: "occupied Palestinian territory, including east Jerusalem",
+      es: "Palestina, Estado de",
+      fr: "Palestine, État de",
+      de: "Palästina, Staat",
+      bg: "Палестина, държава",
+    },
+  },
 ];
 
 export default COUNTRIES;

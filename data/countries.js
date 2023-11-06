@@ -10,8 +10,8 @@ const COUNTRIES = [
       es: "Aruba",
       fr: "Aruba",
       de: "Aruba",
-      bg: "Аруба"
-    }
+      bg: "Аруба",
+    },
   },
   {
     name: "Afghanistan",
@@ -23,8 +23,8 @@ const COUNTRIES = [
       es: "Afganistán",
       fr: "Afghanistan",
       de: "Afghanistan",
-      bg: "Афганистан"
-    }
+      bg: "Афганистан",
+    },
   },
   {
     name: "Angola",
@@ -36,8 +36,8 @@ const COUNTRIES = [
       es: "Angola",
       fr: "Angola",
       de: "Angola",
-      bg: "Ангола"
-    }
+      bg: "Ангола",
+    },
   },
   {
     name: "Anguilla",
@@ -49,8 +49,8 @@ const COUNTRIES = [
       es: "Anguila",
       fr: "Anguilla",
       de: "Anguilla",
-      bg: "Ангила"
-    }
+      bg: "Ангила",
+    },
   },
   {
     name: "Åland Islands",
@@ -62,8 +62,8 @@ const COUNTRIES = [
       es: "Islas Äland",
       fr: "Åland, Îles",
       de: "Åland-Inseln",
-      bg: "Аландски острови"
-    }
+      bg: "Аландски острови",
+    },
   },
   {
     name: "Albania",
@@ -75,8 +75,8 @@ const COUNTRIES = [
       es: "Albania",
       fr: "Albanie",
       de: "Albanien",
-      bg: "Албания"
-    }
+      bg: "Албания",
+    },
   },
   {
     name: "Andorra",
@@ -88,8 +88,8 @@ const COUNTRIES = [
       es: "Andorra",
       fr: "Andorre",
       de: "Andorra",
-      bg: "Андора"
-    }
+      bg: "Андора",
+    },
   },
   {
     name: "United Arab Emirates",
@@ -101,8 +101,8 @@ const COUNTRIES = [
       es: "Emiratos Árabes Unidos",
       fr: "Émirats arabes unis",
       de: "Vereinigte Arabische Emirate",
-      bg: "Обединени арабски емирства"
-    }
+      bg: "Обединени арабски емирства",
+    },
   },
   {
     name: "Argentina",
@@ -114,8 +114,8 @@ const COUNTRIES = [
       es: "Argentina",
       fr: "Argentine",
       de: "Argentinien",
-      bg: "Аржентина"
-    }
+      bg: "Аржентина",
+    },
   },
   {
     name: "Armenia",
@@ -127,8 +127,8 @@ const COUNTRIES = [
       es: "Armenia",
       fr: "Arménie",
       de: "Armenien",
-      bg: "Армения"
-    }
+      bg: "Армения",
+    },
   },
   {
     name: "American Samoa",
@@ -140,8 +140,8 @@ const COUNTRIES = [
       es: "Samoa Estadounidense",
       fr: "Samoa américaines",
       de: "Amerikanisch-Samoa",
-      bg: "Американска Самоа"
-    }
+      bg: "Американска Самоа",
+    },
   },
   {
     name: "Antarctica",
@@ -153,8 +153,8 @@ const COUNTRIES = [
       es: "Antártida",
       fr: "Antarctique",
       de: "Antarktis",
-      bg: "Антарктика"
-    }
+      bg: "Антарктика",
+    },
   },
   {
     name: "French Southern Territories",
@@ -166,8 +166,8 @@ const COUNTRIES = [
       es: "Territorios Franceses del Sur",
       fr: "Terres australes françaises",
       de: "Französische Süd- und Antarktisgebiete",
-      bg: "Френски южни територии"
-    }
+      bg: "Френски южни територии",
+    },
   },
   {
     name: "Antigua and Barbuda",
@@ -179,8 +179,8 @@ const COUNTRIES = [
       es: "Antigua y Barbuda",
       fr: "Antigua-et-Barbuda",
       de: "Antigua und Barbuda",
-      bg: "Антигуа и Барбуда"
-    }
+      bg: "Антигуа и Барбуда",
+    },
   },
   {
     name: "Australia",
@@ -192,8 +192,8 @@ const COUNTRIES = [
       es: "Australia",
       fr: "Australie",
       de: "Australien",
-      bg: "Австралия"
-    }
+      bg: "Австралия",
+    },
   },
   {
     name: "Austria",
@@ -205,8 +205,8 @@ const COUNTRIES = [
       es: "Austria",
       fr: "Autriche",
       de: "Österreich",
-      bg: "Австрия"
-    }
+      bg: "Австрия",
+    },
   },
   {
     name: "Azerbaijan",
@@ -218,8 +218,8 @@ const COUNTRIES = [
       es: "Azerbaiyán",
       fr: "Azerbaïdjan",
       de: "Aserbaidschan",
-      bg: "Азербайджан"
-    }
+      bg: "Азербайджан",
+    },
   },
   {
     name: "Burundi",
@@ -231,8 +231,8 @@ const COUNTRIES = [
       es: "Burundi",
       fr: "Burundi",
       de: "Burundi",
-      bg: "Бурунди"
-    }
+      bg: "Бурунди",
+    },
   },
   {
     name: "Belgium",
@@ -244,8 +244,8 @@ const COUNTRIES = [
       es: "Bélgica",
       fr: "Belgique",
       de: "Belgien",
-      bg: "Белгия"
-    }
+      bg: "Белгия",
+    },
   },
   {
     name: "Benin",
@@ -257,8 +257,8 @@ const COUNTRIES = [
       es: "Benín",
       fr: "Bénin",
       de: "Benin",
-      bg: "Бенин"
-    }
+      bg: "Бенин",
+    },
   },
   {
     name: "Bonaire, Sint Eustatius and Saba",
@@ -270,8 +270,8 @@ const COUNTRIES = [
       es: "Islas BES (Caribe Neerlandés)",
       fr: "Bonaire, Saint-Eustache et Saba",
       de: "Bonaire, Sint Eustatius und Saba",
-      bg: "О-ви Бонер, Св. Евстатий и Саба"
-    }
+      bg: "О-ви Бонер, Св. Евстатий и Саба",
+    },
   },
   {
     name: "Burkina Faso",
@@ -283,8 +283,8 @@ const COUNTRIES = [
       es: "Burquina Faso",
       fr: "Burkina Faso",
       de: "Burkina Faso",
-      bg: "Буркина Фасо"
-    }
+      bg: "Буркина Фасо",
+    },
   },
   {
     name: "Bangladesh",
@@ -296,8 +296,8 @@ const COUNTRIES = [
       es: "Bangladés",
       fr: "Bangladesh",
       de: "Bangladesch",
-      bg: "Бангладеш"
-    }
+      bg: "Бангладеш",
+    },
   },
   {
     name: "Bulgaria",
@@ -309,8 +309,8 @@ const COUNTRIES = [
       es: "Bulgaria",
       fr: "Bulgarie",
       de: "Bulgarien",
-      bg: "България"
-    }
+      bg: "България",
+    },
   },
   {
     name: "Bahrain",
@@ -322,8 +322,8 @@ const COUNTRIES = [
       es: "Baréin",
       fr: "Bahreïn",
       de: "Bahrain",
-      bg: "Бахрейн"
-    }
+      bg: "Бахрейн",
+    },
   },
   {
     name: "Bahamas",
@@ -335,8 +335,8 @@ const COUNTRIES = [
       es: "Bahamas",
       fr: "Bahamas",
       de: "Bahamas",
-      bg: "Бахами"
-    }
+      bg: "Бахами",
+    },
   },
   {
     name: "Bosnia and Herzegovina",
@@ -348,8 +348,8 @@ const COUNTRIES = [
       es: "Bosnia y Herzegovina",
       fr: "Bosnie-Herzégovine",
       de: "Bosnien und Herzegowina",
-      bg: "Босна и Херцеговина"
-    }
+      bg: "Босна и Херцеговина",
+    },
   },
   {
     name: "Saint Barthélemy",
@@ -361,8 +361,8 @@ const COUNTRIES = [
       es: "San Bartolomé",
       fr: "Saint-Barthélemy",
       de: "Saint-Barthélemy",
-      bg: "Свети Вартоломей"
-    }
+      bg: "Свети Вартоломей",
+    },
   },
   {
     name: "Belarus",
@@ -374,8 +374,8 @@ const COUNTRIES = [
       es: "Bielorrusia",
       fr: "Bélarus",
       de: "Weißrussland",
-      bg: "Беларус"
-    }
+      bg: "Беларус",
+    },
   },
   {
     name: "Belize",
@@ -387,8 +387,8 @@ const COUNTRIES = [
       es: "Belice",
       fr: "Belize",
       de: "Belize",
-      bg: "Белиз"
-    }
+      bg: "Белиз",
+    },
   },
   {
     name: "Bermuda",
@@ -400,8 +400,8 @@ const COUNTRIES = [
       es: "Islas Bermudas",
       fr: "Bermudes",
       de: "Bermuda",
-      bg: "Бермуда"
-    }
+      bg: "Бермуда",
+    },
   },
   {
     name: "Bolivia, Plurinational State of",
@@ -413,8 +413,8 @@ const COUNTRIES = [
       es: "Bolivia, Estado plurinacional de",
       fr: "Bolivie, état plurinational de",
       de: "Bolivien, Plurinationaler Staat",
-      bg: "Боливия, Многонационална държава"
-    }
+      bg: "Боливия, Многонационална държава",
+    },
   },
   {
     name: "Brazil",
@@ -426,8 +426,8 @@ const COUNTRIES = [
       es: "Brasil",
       fr: "Brésil",
       de: "Brasilien",
-      bg: "Бразилия"
-    }
+      bg: "Бразилия",
+    },
   },
   {
     name: "Barbados",
@@ -439,8 +439,8 @@ const COUNTRIES = [
       es: "Barbados",
       fr: "Barbade",
       de: "Barbados",
-      bg: "Барбадос"
-    }
+      bg: "Барбадос",
+    },
   },
   {
     name: "Brunei Darussalam",
@@ -452,8 +452,8 @@ const COUNTRIES = [
       es: "Brunei Darussalam",
       fr: "Brunéi Darussalam",
       de: "Brunei Darussalam",
-      bg: "Бруней"
-    }
+      bg: "Бруней",
+    },
   },
   {
     name: "Bhutan",
@@ -465,8 +465,8 @@ const COUNTRIES = [
       es: "Bután",
       fr: "Bhoutan",
       de: "Bhutan",
-      bg: "Бутан"
-    }
+      bg: "Бутан",
+    },
   },
   {
     name: "Bouvet Island",
@@ -478,8 +478,8 @@ const COUNTRIES = [
       es: "Isla Bouvet",
       fr: "île Bouvet",
       de: "Bouvet-Insel",
-      bg: "Остров Буве"
-    }
+      bg: "Остров Буве",
+    },
   },
   {
     name: "Botswana",
@@ -491,8 +491,8 @@ const COUNTRIES = [
       es: "Botsuana",
       fr: "Botswana",
       de: "Botsuana",
-      bg: "Ботсуана"
-    }
+      bg: "Ботсуана",
+    },
   },
   {
     name: "Central African Republic",
@@ -504,8 +504,8 @@ const COUNTRIES = [
       es: "República Centroafricana",
       fr: "République centrafricaine",
       de: "Zentralafrikanische Republik",
-      bg: "Централноафриканска Република"
-    }
+      bg: "Централноафриканска Република",
+    },
   },
   {
     name: "Canada",
@@ -517,8 +517,8 @@ const COUNTRIES = [
       es: "Canadá",
       fr: "Canada",
       de: "Kanada",
-      bg: "Канада"
-    }
+      bg: "Канада",
+    },
   },
   {
     name: "Cocos (Keeling) Islands",
@@ -530,8 +530,8 @@ const COUNTRIES = [
       es: "Islas Cocos (Keeling)",
       fr: "Cocos (Keeling), Îles",
       de: "Kokos-(Keeling-)Inseln",
-      bg: "Кокосови острови"
-    }
+      bg: "Кокосови острови",
+    },
   },
   {
     name: "Switzerland",
@@ -543,8 +543,8 @@ const COUNTRIES = [
       es: "Suiza",
       fr: "Suisse",
       de: "Schweiz",
-      bg: "Швейцария"
-    }
+      bg: "Швейцария",
+    },
   },
   {
     name: "Chile",
@@ -556,8 +556,8 @@ const COUNTRIES = [
       es: "Chile",
       fr: "Chili",
       de: "Chile",
-      bg: "Чили"
-    }
+      bg: "Чили",
+    },
   },
   {
     name: "China",
@@ -569,8 +569,8 @@ const COUNTRIES = [
       es: "China",
       fr: "Chine",
       de: "China",
-      bg: "Китай"
-    }
+      bg: "Китай",
+    },
   },
   {
     name: "Côte d'Ivoire",
@@ -582,8 +582,8 @@ const COUNTRIES = [
       es: "Costa de Marfíl",
       fr: "Côte d'Ivoire",
       de: "Côte d'Ivoire",
-      bg: "Кот д'Ивоар"
-    }
+      bg: "Кот д'Ивоар",
+    },
   },
   {
     name: "Cameroon",
@@ -595,8 +595,8 @@ const COUNTRIES = [
       es: "Camerún",
       fr: "Cameroun",
       de: "Kamerun",
-      bg: "Камерун"
-    }
+      bg: "Камерун",
+    },
   },
   {
     name: "Congo, The Democratic Republic of the",
@@ -608,8 +608,8 @@ const COUNTRIES = [
       es: "Congo, República Democrática del",
       fr: "République démocratique du Congo",
       de: "Demokratische Republik Kongo",
-      bg: "Конго, Демократична република"
-    }
+      bg: "Конго, Демократична република",
+    },
   },
   {
     name: "Congo",
@@ -621,8 +621,8 @@ const COUNTRIES = [
       es: "Congo",
       fr: "République du Congo",
       de: "Kongo",
-      bg: "Конго"
-    }
+      bg: "Конго",
+    },
   },
   {
     name: "Cook Islands",
@@ -634,8 +634,8 @@ const COUNTRIES = [
       es: "Islas Cook",
       fr: "îles Cook",
       de: "Cookinseln",
-      bg: "Острови Кук"
-    }
+      bg: "Острови Кук",
+    },
   },
   {
     name: "Colombia",
@@ -647,8 +647,8 @@ const COUNTRIES = [
       es: "Colombia",
       fr: "Colombie",
       de: "Kolumbien",
-      bg: "Колумбия"
-    }
+      bg: "Колумбия",
+    },
   },
   {
     name: "Comoros",
@@ -660,8 +660,8 @@ const COUNTRIES = [
       es: "Comores, Islas",
       fr: "Comores",
       de: "Komoren",
-      bg: "Комори"
-    }
+      bg: "Комори",
+    },
   },
   {
     name: "Cabo Verde",
@@ -673,8 +673,8 @@ const COUNTRIES = [
       es: "Cabo Verde",
       fr: "Cap-Vert",
       de: "Cabo Verde",
-      bg: "Cabo Verde"
-    }
+      bg: "Cabo Verde",
+    },
   },
   {
     name: "Costa Rica",
@@ -686,8 +686,8 @@ const COUNTRIES = [
       es: "Costa Rica",
       fr: "Costa Rica",
       de: "Costa Rica",
-      bg: "Коста Рика"
-    }
+      bg: "Коста Рика",
+    },
   },
   {
     name: "Cuba",
@@ -699,8 +699,8 @@ const COUNTRIES = [
       es: "Cuba",
       fr: "Cuba",
       de: "Kuba",
-      bg: "Куба"
-    }
+      bg: "Куба",
+    },
   },
   {
     name: "Curaçao",
@@ -712,8 +712,8 @@ const COUNTRIES = [
       es: "Curazao",
       fr: "Curaçao",
       de: "Curaçao",
-      bg: "Кюрасао"
-    }
+      bg: "Кюрасао",
+    },
   },
   {
     name: "Christmas Island",
@@ -725,8 +725,8 @@ const COUNTRIES = [
       es: "Isla de Navidad",
       fr: "Christmas, Île",
       de: "Weihnachtsinseln",
-      bg: "Коледни острови"
-    }
+      bg: "Коледни острови",
+    },
   },
   {
     name: "Cayman Islands",
@@ -738,8 +738,8 @@ const COUNTRIES = [
       es: "Islas Caimán",
       fr: "îles Caïmans",
       de: "Cayman-Inseln",
-      bg: "Кайманови острови"
-    }
+      bg: "Кайманови острови",
+    },
   },
   {
     name: "Cyprus",
@@ -751,8 +751,8 @@ const COUNTRIES = [
       es: "Chipre",
       fr: "Chypre",
       de: "Zypern",
-      bg: "Кипър"
-    }
+      bg: "Кипър",
+    },
   },
   {
     name: "Czechia",
@@ -764,8 +764,8 @@ const COUNTRIES = [
       es: "Chequia",
       fr: "Tchéquie",
       de: "Tschechien",
-      bg: "Czechia"
-    }
+      bg: "Czechia",
+    },
   },
   {
     name: "Germany",
@@ -777,8 +777,8 @@ const COUNTRIES = [
       es: "Alemania",
       fr: "Allemagne",
       de: "Deutschland",
-      bg: "Германия"
-    }
+      bg: "Германия",
+    },
   },
   {
     name: "Djibouti",
@@ -790,8 +790,8 @@ const COUNTRIES = [
       es: "Yibuti",
       fr: "Djibouti",
       de: "Dschibuti",
-      bg: "Джибути"
-    }
+      bg: "Джибути",
+    },
   },
   {
     name: "Dominica",
@@ -803,8 +803,8 @@ const COUNTRIES = [
       es: "Dominica",
       fr: "Dominique",
       de: "Dominica",
-      bg: "Доминика"
-    }
+      bg: "Доминика",
+    },
   },
   {
     name: "Denmark",
@@ -816,8 +816,8 @@ const COUNTRIES = [
       es: "Dinamarca",
       fr: "Danemark",
       de: "Dänemark",
-      bg: "Дания"
-    }
+      bg: "Дания",
+    },
   },
   {
     name: "Dominican Republic",
@@ -829,8 +829,8 @@ const COUNTRIES = [
       es: "República Dominicana",
       fr: "République dominicaine",
       de: "Dominikanische Republik",
-      bg: "Доминиканска република"
-    }
+      bg: "Доминиканска република",
+    },
   },
   {
     name: "Algeria",
@@ -842,8 +842,8 @@ const COUNTRIES = [
       es: "Algeria",
       fr: "Algérie",
       de: "Algerien",
-      bg: "Алжир"
-    }
+      bg: "Алжир",
+    },
   },
   {
     name: "Ecuador",
@@ -855,8 +855,8 @@ const COUNTRIES = [
       es: "Ecuador",
       fr: "Équateur",
       de: "Ecuador",
-      bg: "Еквадор"
-    }
+      bg: "Еквадор",
+    },
   },
   {
     name: "Egypt",
@@ -868,8 +868,8 @@ const COUNTRIES = [
       es: "Egipto",
       fr: "Égypte",
       de: "Ägypten",
-      bg: "Египет"
-    }
+      bg: "Египет",
+    },
   },
   {
     name: "Eritrea",
@@ -881,8 +881,8 @@ const COUNTRIES = [
       es: "Eritrea",
       fr: "Érythrée",
       de: "Eritrea",
-      bg: "Еритрея"
-    }
+      bg: "Еритрея",
+    },
   },
   {
     name: "Western Sahara",
@@ -894,8 +894,8 @@ const COUNTRIES = [
       es: "Sahara Occidental",
       fr: "Sahara occidental",
       de: "Westsahara",
-      bg: "Западна Сахара"
-    }
+      bg: "Западна Сахара",
+    },
   },
   {
     name: "Spain",
@@ -907,8 +907,8 @@ const COUNTRIES = [
       es: "España",
       fr: "Espagne",
       de: "Spanien",
-      bg: "Испания"
-    }
+      bg: "Испания",
+    },
   },
   {
     name: "Estonia",
@@ -920,8 +920,8 @@ const COUNTRIES = [
       es: "Estonia",
       fr: "Estonie",
       de: "Estland",
-      bg: "Естония"
-    }
+      bg: "Естония",
+    },
   },
   {
     name: "Ethiopia",
@@ -933,8 +933,8 @@ const COUNTRIES = [
       es: "Etiopía",
       fr: "Éthiopie",
       de: "Äthiopien",
-      bg: "Етиопия"
-    }
+      bg: "Етиопия",
+    },
   },
   {
     name: "Finland",
@@ -946,8 +946,8 @@ const COUNTRIES = [
       es: "Finlandia",
       fr: "Finlande",
       de: "Finnland",
-      bg: "Финландия"
-    }
+      bg: "Финландия",
+    },
   },
   {
     name: "Fiji",
@@ -959,8 +959,8 @@ const COUNTRIES = [
       es: "Fiyi",
       fr: "Fidji",
       de: "Fidschi",
-      bg: "Фиджи"
-    }
+      bg: "Фиджи",
+    },
   },
   {
     name: "Falkland Islands (Malvinas)",
@@ -972,8 +972,8 @@ const COUNTRIES = [
       es: "Islas Falkland (Malvinas)",
       fr: "Malouines, Îles (Falkland)",
       de: "Falklandinseln (Malwinen)",
-      bg: "Фолклендски Острови (Малвини)"
-    }
+      bg: "Фолклендски Острови (Малвини)",
+    },
   },
   {
     name: "France",
@@ -985,8 +985,8 @@ const COUNTRIES = [
       es: "Francia",
       fr: "France",
       de: "Frankreich",
-      bg: "Франция"
-    }
+      bg: "Франция",
+    },
   },
   {
     name: "Faroe Islands",
@@ -998,8 +998,8 @@ const COUNTRIES = [
       es: "Islas Feroe",
       fr: "îles Féroé",
       de: "Färöer-Inseln",
-      bg: "Острови Фаро"
-    }
+      bg: "Острови Фаро",
+    },
   },
   {
     name: "Micronesia, Federated States of",
@@ -1011,8 +1011,8 @@ const COUNTRIES = [
       es: "Micronesia, Estados Federados de",
       fr: "Micronésie, États fédérés de",
       de: "Mikronesien, Föderierte Staaten von",
-      bg: "Микронезия, Обединени щати"
-    }
+      bg: "Микронезия, Обединени щати",
+    },
   },
   {
     name: "Gabon",
@@ -1024,8 +1024,8 @@ const COUNTRIES = [
       es: "Gabón",
       fr: "Gabon",
       de: "Gabun",
-      bg: "Габон"
-    }
+      bg: "Габон",
+    },
   },
   {
     name: "United Kingdom",
@@ -1037,8 +1037,8 @@ const COUNTRIES = [
       es: "Reino Unido",
       fr: "Royaume-Uni",
       de: "Vereinigtes Königreich",
-      bg: "Обединено кралство"
-    }
+      bg: "Обединено кралство",
+    },
   },
   {
     name: "Georgia",
@@ -1050,8 +1050,8 @@ const COUNTRIES = [
       es: "Georgia",
       fr: "Géorgie",
       de: "Georgien",
-      bg: "Грузия"
-    }
+      bg: "Грузия",
+    },
   },
   {
     name: "Guernsey",
@@ -1063,8 +1063,8 @@ const COUNTRIES = [
       es: "Guernsey",
       fr: "Guernesey",
       de: "Guernsey",
-      bg: "Гърнсей"
-    }
+      bg: "Гърнсей",
+    },
   },
   {
     name: "Ghana",
@@ -1076,8 +1076,8 @@ const COUNTRIES = [
       es: "Ghana",
       fr: "Ghana",
       de: "Ghana",
-      bg: "Гана"
-    }
+      bg: "Гана",
+    },
   },
   {
     name: "Gibraltar",
@@ -1089,8 +1089,8 @@ const COUNTRIES = [
       es: "Gibraltar",
       fr: "Gibraltar",
       de: "Gibraltar",
-      bg: "Гибралтар"
-    }
+      bg: "Гибралтар",
+    },
   },
   {
     name: "Guinea",
@@ -1102,8 +1102,8 @@ const COUNTRIES = [
       es: "Guinea",
       fr: "Guinée",
       de: "Guinea",
-      bg: "Гвинея"
-    }
+      bg: "Гвинея",
+    },
   },
   {
     name: "Guadeloupe",
@@ -1115,8 +1115,8 @@ const COUNTRIES = [
       es: "Guadalupe",
       fr: "Guadeloupe",
       de: "Guadeloupe",
-      bg: "Гваделупа"
-    }
+      bg: "Гваделупа",
+    },
   },
   {
     name: "Gambia",
@@ -1128,8 +1128,8 @@ const COUNTRIES = [
       es: "Gambia",
       fr: "Gambie",
       de: "Gambia",
-      bg: "Гамбия"
-    }
+      bg: "Гамбия",
+    },
   },
   {
     name: "Guinea-Bissau",
@@ -1141,8 +1141,8 @@ const COUNTRIES = [
       es: "Guinea-Bisáu",
       fr: "Guinée-Bissau",
       de: "Guinea-Bissau",
-      bg: "Гвинея-Бисау"
-    }
+      bg: "Гвинея-Бисау",
+    },
   },
   {
     name: "Equatorial Guinea",
@@ -1154,8 +1154,8 @@ const COUNTRIES = [
       es: "Guinea Ecuatorial",
       fr: "Guinée Équatoriale",
       de: "Äquatorialguinea",
-      bg: "Екваториална Гвинея"
-    }
+      bg: "Екваториална Гвинея",
+    },
   },
   {
     name: "Greece",
@@ -1167,8 +1167,8 @@ const COUNTRIES = [
       es: "Grecia",
       fr: "Grèce",
       de: "Griechenland",
-      bg: "Гърция"
-    }
+      bg: "Гърция",
+    },
   },
   {
     name: "Grenada",
@@ -1180,8 +1180,8 @@ const COUNTRIES = [
       es: "Granada",
       fr: "Grenade",
       de: "Grenada",
-      bg: "Гренада"
-    }
+      bg: "Гренада",
+    },
   },
   {
     name: "Greenland",
@@ -1193,8 +1193,8 @@ const COUNTRIES = [
       es: "Groenlandia",
       fr: "Groënland",
       de: "Grönland",
-      bg: "Гренландия"
-    }
+      bg: "Гренландия",
+    },
   },
   {
     name: "Guatemala",
@@ -1206,8 +1206,8 @@ const COUNTRIES = [
       es: "Guatemala",
       fr: "Guatemala",
       de: "Guatemala",
-      bg: "Гватемала"
-    }
+      bg: "Гватемала",
+    },
   },
   {
     name: "French Guiana",
@@ -1219,8 +1219,8 @@ const COUNTRIES = [
       es: "Guayana Francesa",
       fr: "Guyane française",
       de: "Französisch-Guyana",
-      bg: "Френска Гвиана"
-    }
+      bg: "Френска Гвиана",
+    },
   },
   {
     name: "Guam",
@@ -1232,8 +1232,8 @@ const COUNTRIES = [
       es: "Guam",
       fr: "Guam",
       de: "Guam",
-      bg: "Гуам"
-    }
+      bg: "Гуам",
+    },
   },
   {
     name: "Guyana",
@@ -1245,8 +1245,8 @@ const COUNTRIES = [
       es: "Guyana",
       fr: "Guyana",
       de: "Guyana",
-      bg: "Гияна"
-    }
+      bg: "Гияна",
+    },
   },
   {
     name: "Hong Kong",
@@ -1258,8 +1258,8 @@ const COUNTRIES = [
       es: "Hong Kong",
       fr: "Hong Kong",
       de: "Hongkong",
-      bg: "Хонг Конг"
-    }
+      bg: "Хонг Конг",
+    },
   },
   {
     name: "Heard Island and McDonald Islands",
@@ -1271,8 +1271,8 @@ const COUNTRIES = [
       es: "Islas Heard y McDonald",
       fr: "îles Heard-et-MacDonald",
       de: "Heard und McDonaldinseln",
-      bg: "Острови Хърд и МакДоналд"
-    }
+      bg: "Острови Хърд и МакДоналд",
+    },
   },
   {
     name: "Honduras",
@@ -1284,8 +1284,8 @@ const COUNTRIES = [
       es: "Honduras",
       fr: "Honduras",
       de: "Honduras",
-      bg: "Хондурас"
-    }
+      bg: "Хондурас",
+    },
   },
   {
     name: "Croatia",
@@ -1297,8 +1297,8 @@ const COUNTRIES = [
       es: "Croacia",
       fr: "Croatie",
       de: "Kroatien",
-      bg: "Хърватия"
-    }
+      bg: "Хърватия",
+    },
   },
   {
     name: "Haiti",
@@ -1310,8 +1310,8 @@ const COUNTRIES = [
       es: "Haití",
       fr: "Haïti",
       de: "Haiti",
-      bg: "Хаити"
-    }
+      bg: "Хаити",
+    },
   },
   {
     name: "Hungary",
@@ -1323,8 +1323,8 @@ const COUNTRIES = [
       es: "Hungría",
       fr: "Hongrie",
       de: "Ungarn",
-      bg: "Унгария"
-    }
+      bg: "Унгария",
+    },
   },
   {
     name: "Indonesia",
@@ -1336,8 +1336,8 @@ const COUNTRIES = [
       es: "Indonesia",
       fr: "Indonésie",
       de: "Indonesien",
-      bg: "Индонезия"
-    }
+      bg: "Индонезия",
+    },
   },
   {
     name: "Isle of Man",
@@ -1349,8 +1349,8 @@ const COUNTRIES = [
       es: "Isla de Man",
       fr: "Île de Man",
       de: "Insel Man",
-      bg: "Айл ъф мен"
-    }
+      bg: "Айл ъф мен",
+    },
   },
   {
     name: "India",
@@ -1362,8 +1362,8 @@ const COUNTRIES = [
       es: "India",
       fr: "Inde",
       de: "Indien",
-      bg: "Индия"
-    }
+      bg: "Индия",
+    },
   },
   {
     name: "British Indian Ocean Territory",
@@ -1375,8 +1375,8 @@ const COUNTRIES = [
       es: "Territorio Británico del Océano Índico",
       fr: "Territoire britannique de l'océan Indien",
       de: "Britisches Territorium im Indischen Ozean",
-      bg: "Английски територии в индийския океан"
-    }
+      bg: "Английски територии в индийския океан",
+    },
   },
   {
     name: "Ireland",
@@ -1388,8 +1388,8 @@ const COUNTRIES = [
       es: "Irlanda",
       fr: "Irlande",
       de: "Irland",
-      bg: "Ирландия"
-    }
+      bg: "Ирландия",
+    },
   },
   {
     name: "Iran, Islamic Republic of",
@@ -1401,8 +1401,8 @@ const COUNTRIES = [
       es: "Irán, República islámica de",
       fr: "Iran, République islamique d'",
       de: "Iran, Islamische Republik",
-      bg: "Иран, Ислямска република"
-    }
+      bg: "Иран, Ислямска република",
+    },
   },
   {
     name: "Iraq",
@@ -1414,8 +1414,8 @@ const COUNTRIES = [
       es: "Irak",
       fr: "Irak",
       de: "Irak",
-      bg: "Ирак"
-    }
+      bg: "Ирак",
+    },
   },
   {
     name: "Iceland",
@@ -1427,8 +1427,8 @@ const COUNTRIES = [
       es: "Islandia",
       fr: "Islande",
       de: "Island",
-      bg: "Исландия"
-    }
+      bg: "Исландия",
+    },
   },
   {
     name: "Israel",
@@ -1440,8 +1440,8 @@ const COUNTRIES = [
       es: "Israel",
       fr: "Israël",
       de: "Israel",
-      bg: "Израел"
-    }
+      bg: "Израел",
+    },
   },
   {
     name: "Italy",
@@ -1453,8 +1453,8 @@ const COUNTRIES = [
       es: "Italia",
       fr: "Italie",
       de: "Italien",
-      bg: "Италия"
-    }
+      bg: "Италия",
+    },
   },
   {
     name: "Jamaica",
@@ -1466,8 +1466,8 @@ const COUNTRIES = [
       es: "Jamaica",
       fr: "Jamaïque",
       de: "Jamaika",
-      bg: "Ямайка"
-    }
+      bg: "Ямайка",
+    },
   },
   {
     name: "Jersey",
@@ -1479,8 +1479,8 @@ const COUNTRIES = [
       es: "Jersey",
       fr: "Jersey",
       de: "Jersey",
-      bg: "Джърси"
-    }
+      bg: "Джърси",
+    },
   },
   {
     name: "Jordan",
@@ -1492,8 +1492,8 @@ const COUNTRIES = [
       es: "Jordania",
       fr: "Jordanie",
       de: "Jordanien",
-      bg: "Йордания"
-    }
+      bg: "Йордания",
+    },
   },
   {
     name: "Japan",
@@ -1505,8 +1505,8 @@ const COUNTRIES = [
       es: "Japón",
       fr: "Japon",
       de: "Japan",
-      bg: "Япония"
-    }
+      bg: "Япония",
+    },
   },
   {
     name: "Kazakhstan",
@@ -1518,8 +1518,8 @@ const COUNTRIES = [
       es: "Kazajistán",
       fr: "Kazakhstan",
       de: "Kasachstan",
-      bg: "Казахстан"
-    }
+      bg: "Казахстан",
+    },
   },
   {
     name: "Kenya",
@@ -1531,8 +1531,8 @@ const COUNTRIES = [
       es: "Kenia",
       fr: "Kenya",
       de: "Kenia",
-      bg: "Кения"
-    }
+      bg: "Кения",
+    },
   },
   {
     name: "Kyrgyzstan",
@@ -1544,8 +1544,8 @@ const COUNTRIES = [
       es: "Kirguistán",
       fr: "Kirghizistan",
       de: "Kirgisistan",
-      bg: "Киргизстан"
-    }
+      bg: "Киргизстан",
+    },
   },
   {
     name: "Cambodia",
@@ -1557,8 +1557,8 @@ const COUNTRIES = [
       es: "Camboya",
       fr: "Cambodge",
       de: "Kambodscha",
-      bg: "Камбоджа"
-    }
+      bg: "Камбоджа",
+    },
   },
   {
     name: "Kiribati",
@@ -1570,8 +1570,8 @@ const COUNTRIES = [
       es: "Kiribati",
       fr: "Kiribati",
       de: "Kiribati",
-      bg: "Кирибати"
-    }
+      bg: "Кирибати",
+    },
   },
   {
     name: "Saint Kitts and Nevis",
@@ -1583,8 +1583,8 @@ const COUNTRIES = [
       es: "San Cristóbal y Nieves",
       fr: "Saint-Christophe-et-Niévès",
       de: "St. Kitts und Nevis",
-      bg: "Свети Китс и Невис"
-    }
+      bg: "Свети Китс и Невис",
+    },
   },
   {
     name: "Korea, Republic of",
@@ -1596,8 +1596,8 @@ const COUNTRIES = [
       es: "Corea, República de",
       fr: "Corée, République de",
       de: "Korea, Republik",
-      bg: "Корея, Република"
-    }
+      bg: "Корея, Република",
+    },
   },
   {
     name: "Kuwait",
@@ -1609,8 +1609,8 @@ const COUNTRIES = [
       es: "Kuwait",
       fr: "Koweït",
       de: "Kuwait",
-      bg: "Кувейт"
-    }
+      bg: "Кувейт",
+    },
   },
   {
     name: "Lao People's Democratic Republic",
@@ -1622,8 +1622,8 @@ const COUNTRIES = [
       es: "República Democrática Popular de Lao",
       fr: "Lao, République démocratique populaire",
       de: "Laos, Demokratische Volksrepublik",
-      bg: "Демократична република на народа на Лао"
-    }
+      bg: "Демократична република на народа на Лао",
+    },
   },
   {
     name: "Lebanon",
@@ -1635,8 +1635,8 @@ const COUNTRIES = [
       es: "Líbano",
       fr: "Liban",
       de: "Libanon",
-      bg: "Лебанон"
-    }
+      bg: "Лебанон",
+    },
   },
   {
     name: "Liberia",
@@ -1648,8 +1648,8 @@ const COUNTRIES = [
       es: "Liberia",
       fr: "Libéria",
       de: "Liberia",
-      bg: "Либерия"
-    }
+      bg: "Либерия",
+    },
   },
   {
     name: "Libya",
@@ -1661,8 +1661,8 @@ const COUNTRIES = [
       es: "Libia",
       fr: "Libye",
       de: "Libyen",
-      bg: "Либия"
-    }
+      bg: "Либия",
+    },
   },
   {
     name: "Saint Lucia",
@@ -1674,8 +1674,8 @@ const COUNTRIES = [
       es: "Santa Lucía",
       fr: "Sainte-Lucie",
       de: "St. Lucia",
-      bg: "Санта Лучия"
-    }
+      bg: "Санта Лучия",
+    },
   },
   {
     name: "Liechtenstein",
@@ -1687,8 +1687,8 @@ const COUNTRIES = [
       es: "Liechtenstein",
       fr: "Liechtenstein",
       de: "Liechtenstein",
-      bg: "Лихтенщайн"
-    }
+      bg: "Лихтенщайн",
+    },
   },
   {
     name: "Sri Lanka",
@@ -1700,8 +1700,8 @@ const COUNTRIES = [
       es: "Sri Lanka",
       fr: "Sri Lanka",
       de: "Sri Lanka",
-      bg: "Шри Ланка"
-    }
+      bg: "Шри Ланка",
+    },
   },
   {
     name: "Lesotho",
@@ -1713,8 +1713,8 @@ const COUNTRIES = [
       es: "Lesoto",
       fr: "Lesotho",
       de: "Lesotho",
-      bg: "Лесото"
-    }
+      bg: "Лесото",
+    },
   },
   {
     name: "Lithuania",
@@ -1726,8 +1726,8 @@ const COUNTRIES = [
       es: "Lituania",
       fr: "Lituanie",
       de: "Litauen",
-      bg: "Литва"
-    }
+      bg: "Литва",
+    },
   },
   {
     name: "Luxembourg",
@@ -1739,8 +1739,8 @@ const COUNTRIES = [
       es: "Luxemburgo",
       fr: "Luxembourg",
       de: "Luxemburg",
-      bg: "Люксембург"
-    }
+      bg: "Люксембург",
+    },
   },
   {
     name: "Latvia",
@@ -1752,8 +1752,8 @@ const COUNTRIES = [
       es: "Letonia",
       fr: "Lettonie",
       de: "Lettland",
-      bg: "Латвия"
-    }
+      bg: "Латвия",
+    },
   },
   {
     name: "Macao",
@@ -1765,8 +1765,8 @@ const COUNTRIES = [
       es: "Macao",
       fr: "Macau",
       de: "Macao",
-      bg: "Макао"
-    }
+      bg: "Макао",
+    },
   },
   {
     name: "Saint Martin (French part)",
@@ -1778,8 +1778,8 @@ const COUNTRIES = [
       es: "San Martín (zona francesa)",
       fr: "Saint-Martin (partie française)",
       de: "Saint Martin (Französischer Teil)",
-      bg: "Свети Мартин (френска част)"
-    }
+      bg: "Свети Мартин (френска част)",
+    },
   },
   {
     name: "Morocco",
@@ -1791,8 +1791,8 @@ const COUNTRIES = [
       es: "Marruecos",
       fr: "Maroc",
       de: "Marokko",
-      bg: "Мароко"
-    }
+      bg: "Мароко",
+    },
   },
   {
     name: "Monaco",
@@ -1804,8 +1804,8 @@ const COUNTRIES = [
       es: "Mónaco",
       fr: "Monaco",
       de: "Monaco",
-      bg: "Монако"
-    }
+      bg: "Монако",
+    },
   },
   {
     name: "Moldova, Republic of",
@@ -1817,8 +1817,8 @@ const COUNTRIES = [
       es: "Moldavia, República de",
       fr: "Moldova, République de",
       de: "Moldau, Republik",
-      bg: "Молдова, Република"
-    }
+      bg: "Молдова, Република",
+    },
   },
   {
     name: "Madagascar",
@@ -1830,8 +1830,8 @@ const COUNTRIES = [
       es: "Madagascar",
       fr: "Madagascar",
       de: "Madagaskar",
-      bg: "Мадагаскар"
-    }
+      bg: "Мадагаскар",
+    },
   },
   {
     name: "Maldives",
@@ -1843,8 +1843,8 @@ const COUNTRIES = [
       es: "Islas Maldivas",
       fr: "Maldives",
       de: "Malediven",
-      bg: "Малдиви"
-    }
+      bg: "Малдиви",
+    },
   },
   {
     name: "Mexico",
@@ -1856,8 +1856,8 @@ const COUNTRIES = [
       es: "México",
       fr: "Mexique",
       de: "Mexiko",
-      bg: "Мексико"
-    }
+      bg: "Мексико",
+    },
   },
   {
     name: "Marshall Islands",
@@ -1869,8 +1869,8 @@ const COUNTRIES = [
       es: "Islas Marshall",
       fr: "Îles Marshall",
       de: "Marshallinseln",
-      bg: "Маршалски острови"
-    }
+      bg: "Маршалски острови",
+    },
   },
   {
     name: "North Macedonia",
@@ -1882,8 +1882,8 @@ const COUNTRIES = [
       es: "Macedonia del Norte",
       fr: "Macédoine du Nord",
       de: "Nordmazedonien",
-      bg: "North Macedonia"
-    }
+      bg: "North Macedonia",
+    },
   },
   {
     name: "Mali",
@@ -1895,8 +1895,8 @@ const COUNTRIES = [
       es: "Mali",
       fr: "Mali",
       de: "Mali",
-      bg: "Мали"
-    }
+      bg: "Мали",
+    },
   },
   {
     name: "Malta",
@@ -1908,8 +1908,8 @@ const COUNTRIES = [
       es: "Malta",
       fr: "Malte",
       de: "Malta",
-      bg: "Малта"
-    }
+      bg: "Малта",
+    },
   },
   {
     name: "Myanmar",
@@ -1921,8 +1921,8 @@ const COUNTRIES = [
       es: "Birmania",
       fr: "Birmanie",
       de: "Myanmar",
-      bg: "Мянмар"
-    }
+      bg: "Мянмар",
+    },
   },
   {
     name: "Montenegro",
@@ -1934,8 +1934,8 @@ const COUNTRIES = [
       es: "Montenegro",
       fr: "Monténégro",
       de: "Montenegro",
-      bg: "Черна гора"
-    }
+      bg: "Черна гора",
+    },
   },
   {
     name: "Mongolia",
@@ -1947,8 +1947,8 @@ const COUNTRIES = [
       es: "Mongolia",
       fr: "Mongolie",
       de: "Mongolei",
-      bg: "Монголия"
-    }
+      bg: "Монголия",
+    },
   },
   {
     name: "Northern Mariana Islands",
@@ -1960,8 +1960,8 @@ const COUNTRIES = [
       es: "Islas Marianas del Norte",
       fr: "Îles Mariannes du Nord",
       de: "Nördliche Marianen",
-      bg: "Северни марианови Острови"
-    }
+      bg: "Северни марианови Острови",
+    },
   },
   {
     name: "Mozambique",
@@ -1973,8 +1973,8 @@ const COUNTRIES = [
       es: "Mozambique",
       fr: "Mozambique",
       de: "Mosambik",
-      bg: "Мозамбик"
-    }
+      bg: "Мозамбик",
+    },
   },
   {
     name: "Mauritania",
@@ -1986,8 +1986,8 @@ const COUNTRIES = [
       es: "Mauritania",
       fr: "Mauritanie",
       de: "Mauretanien",
-      bg: "Мавритания"
-    }
+      bg: "Мавритания",
+    },
   },
   {
     name: "Montserrat",
@@ -1999,8 +1999,8 @@ const COUNTRIES = [
       es: "Montserrat",
       fr: "Montserrat",
       de: "Montserrat",
-      bg: "Монсерат"
-    }
+      bg: "Монсерат",
+    },
   },
   {
     name: "Martinique",
@@ -2012,8 +2012,8 @@ const COUNTRIES = [
       es: "Martinica",
       fr: "Martinique",
       de: "Martinique",
-      bg: "Мартиника"
-    }
+      bg: "Мартиника",
+    },
   },
   {
     name: "Mauritius",
@@ -2025,8 +2025,8 @@ const COUNTRIES = [
       es: "Mauricio",
       fr: "Maurice",
       de: "Mauritius",
-      bg: "Мавриций"
-    }
+      bg: "Мавриций",
+    },
   },
   {
     name: "Malawi",
@@ -2038,8 +2038,8 @@ const COUNTRIES = [
       es: "Malaui",
       fr: "Malawi",
       de: "Malawi",
-      bg: "Малави"
-    }
+      bg: "Малави",
+    },
   },
   {
     name: "Malaysia",
@@ -2051,8 +2051,8 @@ const COUNTRIES = [
       es: "Malasia",
       fr: "Malaisie",
       de: "Malaysia",
-      bg: "Малайзия"
-    }
+      bg: "Малайзия",
+    },
   },
   {
     name: "Mayotte",
@@ -2064,8 +2064,8 @@ const COUNTRIES = [
       es: "Mayotte",
       fr: "Mayotte",
       de: "Mayotte",
-      bg: "Майот"
-    }
+      bg: "Майот",
+    },
   },
   {
     name: "Namibia",
@@ -2077,8 +2077,8 @@ const COUNTRIES = [
       es: "Namibia",
       fr: "Namibie",
       de: "Namibia",
-      bg: "Намибия"
-    }
+      bg: "Намибия",
+    },
   },
   {
     name: "New Caledonia",
@@ -2090,8 +2090,8 @@ const COUNTRIES = [
       es: "Nueva Caledonia",
       fr: "Nouvelle-Calédonie",
       de: "Neukaledonien",
-      bg: "Нова Каледония"
-    }
+      bg: "Нова Каледония",
+    },
   },
   {
     name: "Niger",
@@ -2103,8 +2103,8 @@ const COUNTRIES = [
       es: "Niger",
       fr: "Niger",
       de: "Niger",
-      bg: "Нигер"
-    }
+      bg: "Нигер",
+    },
   },
   {
     name: "Norfolk Island",
@@ -2116,8 +2116,8 @@ const COUNTRIES = [
       es: "Isla Norfolk",
       fr: "île Norfolk",
       de: "Norfolkinsel",
-      bg: "Остров Норфолк"
-    }
+      bg: "Остров Норфолк",
+    },
   },
   {
     name: "Nigeria",
@@ -2129,8 +2129,8 @@ const COUNTRIES = [
       es: "Nigeria",
       fr: "Nigeria",
       de: "Nigeria",
-      bg: "Нигерия"
-    }
+      bg: "Нигерия",
+    },
   },
   {
     name: "Nicaragua",
@@ -2142,8 +2142,8 @@ const COUNTRIES = [
       es: "Nicaragua",
       fr: "Nicaragua",
       de: "Nicaragua",
-      bg: "Никарагуа"
-    }
+      bg: "Никарагуа",
+    },
   },
   {
     name: "Niue",
@@ -2155,8 +2155,8 @@ const COUNTRIES = [
       es: "Niue",
       fr: "Nioue",
       de: "Niue",
-      bg: "Нию"
-    }
+      bg: "Нию",
+    },
   },
   {
     name: "Netherlands",
@@ -2168,8 +2168,8 @@ const COUNTRIES = [
       es: "Países Bajos",
       fr: "Pays-Bas",
       de: "Niederlande",
-      bg: "Холандия"
-    }
+      bg: "Холандия",
+    },
   },
   {
     name: "Norway",
@@ -2181,8 +2181,8 @@ const COUNTRIES = [
       es: "Noruega",
       fr: "Norvège",
       de: "Norwegen",
-      bg: "Норвегия"
-    }
+      bg: "Норвегия",
+    },
   },
   {
     name: "Nepal",
@@ -2194,8 +2194,8 @@ const COUNTRIES = [
       es: "Nepal",
       fr: "Népal",
       de: "Nepal",
-      bg: "Непал"
-    }
+      bg: "Непал",
+    },
   },
   {
     name: "Nauru",
@@ -2207,8 +2207,8 @@ const COUNTRIES = [
       es: "Nauru",
       fr: "Nauru",
       de: "Nauru",
-      bg: "Науру"
-    }
+      bg: "Науру",
+    },
   },
   {
     name: "New Zealand",
@@ -2220,8 +2220,8 @@ const COUNTRIES = [
       es: "Nueva Zelanda",
       fr: "Nouvelle-Zélande",
       de: "Neuseeland",
-      bg: "Нова Зеландия"
-    }
+      bg: "Нова Зеландия",
+    },
   },
   {
     name: "Oman",
@@ -2233,8 +2233,8 @@ const COUNTRIES = [
       es: "Omán",
       fr: "Oman",
       de: "Oman",
-      bg: "Оман"
-    }
+      bg: "Оман",
+    },
   },
   {
     name: "Pakistan",
@@ -2246,8 +2246,8 @@ const COUNTRIES = [
       es: "Pakistán",
       fr: "Pakistan",
       de: "Pakistan",
-      bg: "Пакистан"
-    }
+      bg: "Пакистан",
+    },
   },
   {
     name: "Panama",
@@ -2259,8 +2259,8 @@ const COUNTRIES = [
       es: "Panamá",
       fr: "Panama",
       de: "Panama",
-      bg: "Панама"
-    }
+      bg: "Панама",
+    },
   },
   {
     name: "Pitcairn",
@@ -2272,8 +2272,8 @@ const COUNTRIES = [
       es: "Pitcairn",
       fr: "Îles Pitcairn",
       de: "Pitcairn",
-      bg: "Питкеърн"
-    }
+      bg: "Питкеърн",
+    },
   },
   {
     name: "Peru",
@@ -2285,8 +2285,8 @@ const COUNTRIES = [
       es: "Perú",
       fr: "Pérou",
       de: "Peru",
-      bg: "Перу"
-    }
+      bg: "Перу",
+    },
   },
   {
     name: "Philippines",
@@ -2298,8 +2298,8 @@ const COUNTRIES = [
       es: "Filipinas",
       fr: "Philippines",
       de: "Philippinen",
-      bg: "Филипини"
-    }
+      bg: "Филипини",
+    },
   },
   {
     name: "Palau",
@@ -2311,8 +2311,8 @@ const COUNTRIES = [
       es: "Palaos",
       fr: "Palaos",
       de: "Palau",
-      bg: "Палау"
-    }
+      bg: "Палау",
+    },
   },
   {
     name: "Papua New Guinea",
@@ -2324,8 +2324,8 @@ const COUNTRIES = [
       es: "Papúa Nueva Guinea",
       fr: "Papouasie-Nouvelle-Guinée",
       de: "Papua-Neuguinea",
-      bg: "Папуа Нова Гвинея"
-    }
+      bg: "Папуа Нова Гвинея",
+    },
   },
   {
     name: "Poland",
@@ -2337,8 +2337,8 @@ const COUNTRIES = [
       es: "Polonia",
       fr: "Pologne",
       de: "Polen",
-      bg: "Полша"
-    }
+      bg: "Полша",
+    },
   },
   {
     name: "Puerto Rico",
@@ -2350,8 +2350,8 @@ const COUNTRIES = [
       es: "Puerto Rico",
       fr: "Porto Rico",
       de: "Puerto Rico",
-      bg: "Пуерто Рико"
-    }
+      bg: "Пуерто Рико",
+    },
   },
   {
     name: "Korea, Democratic People's Republic of",
@@ -2363,8 +2363,8 @@ const COUNTRIES = [
       es: "Corea, República Democrática Popular de",
       fr: "Corée, République populaire démocratique de",
       de: "Korea, Demokratische Volksrepublik",
-      bg: "Корея, Демократична народна република"
-    }
+      bg: "Корея, Демократична народна република",
+    },
   },
   {
     name: "Portugal",
@@ -2376,8 +2376,8 @@ const COUNTRIES = [
       es: "Portugal",
       fr: "Portugal",
       de: "Portugal",
-      bg: "Португалия"
-    }
+      bg: "Португалия",
+    },
   },
   {
     name: "Paraguay",
@@ -2389,8 +2389,8 @@ const COUNTRIES = [
       es: "Paraguay",
       fr: "Paraguay",
       de: "Paraguay",
-      bg: "Парагвай"
-    }
+      bg: "Парагвай",
+    },
   },
   {
     name: "French Polynesia",
@@ -2402,8 +2402,8 @@ const COUNTRIES = [
       es: "Polinesia Francesa",
       fr: "Polynésie française",
       de: "Französisch-Polynesien",
-      bg: "Френска Полинезия"
-    }
+      bg: "Френска Полинезия",
+    },
   },
   {
     name: "Qatar",
@@ -2415,8 +2415,8 @@ const COUNTRIES = [
       es: "Catar",
       fr: "Qatar",
       de: "Katar",
-      bg: "Катар"
-    }
+      bg: "Катар",
+    },
   },
   {
     name: "Réunion",
@@ -2428,8 +2428,8 @@ const COUNTRIES = [
       es: "Reunión",
       fr: "Réunion, Île de la",
       de: "Réunion",
-      bg: "Риюниън"
-    }
+      bg: "Риюниън",
+    },
   },
   {
     name: "Romania",
@@ -2441,8 +2441,8 @@ const COUNTRIES = [
       es: "Rumanía",
       fr: "Roumanie",
       de: "Rumänien",
-      bg: "Румъния"
-    }
+      bg: "Румъния",
+    },
   },
   {
     name: "Russian Federation",
@@ -2454,8 +2454,8 @@ const COUNTRIES = [
       es: "Federación Rusa",
       fr: "Russie, Fédération de",
       de: "Russische Föderation",
-      bg: "Руска федерация"
-    }
+      bg: "Руска федерация",
+    },
   },
   {
     name: "Rwanda",
@@ -2467,8 +2467,8 @@ const COUNTRIES = [
       es: "Ruanda",
       fr: "Rwanda",
       de: "Ruanda",
-      bg: "Руанда"
-    }
+      bg: "Руанда",
+    },
   },
   {
     name: "Saudi Arabia",
@@ -2480,8 +2480,8 @@ const COUNTRIES = [
       es: "Arabia Saudí",
       fr: "Arabie saoudite",
       de: "Saudi-Arabien",
-      bg: "Саудитска Арабия"
-    }
+      bg: "Саудитска Арабия",
+    },
   },
   {
     name: "Sudan",
@@ -2493,8 +2493,8 @@ const COUNTRIES = [
       es: "Sudán",
       fr: "Soudan",
       de: "Sudan",
-      bg: "Судан"
-    }
+      bg: "Судан",
+    },
   },
   {
     name: "Senegal",
@@ -2506,8 +2506,8 @@ const COUNTRIES = [
       es: "Senegal",
       fr: "Sénégal",
       de: "Senegal",
-      bg: "Сенегал"
-    }
+      bg: "Сенегал",
+    },
   },
   {
     name: "Singapore",
@@ -2519,8 +2519,8 @@ const COUNTRIES = [
       es: "Singapur",
       fr: "Singapour",
       de: "Singapur",
-      bg: "Сингапур"
-    }
+      bg: "Сингапур",
+    },
   },
   {
     name: "South Georgia and the South Sandwich Islands",
@@ -2532,8 +2532,8 @@ const COUNTRIES = [
       es: "Islas Georgias del Sur y Sándwich del Sur",
       fr: "Géorgie du Sud et les îles Sandwich du Sud",
       de: "South Georgia und die Südlichen Sandwichinseln",
-      bg: "Южна Джорджия и Южни Сандвичеви острови"
-    }
+      bg: "Южна Джорджия и Южни Сандвичеви острови",
+    },
   },
   {
     name: "Saint Helena, Ascension and Tristan da Cunha",
@@ -2545,8 +2545,8 @@ const COUNTRIES = [
       es: "Santa Elena, Ascensión y Tristán de Acuña",
       fr: "Sainte-Hélène, Ascension et Tristan da Cunha",
       de: "St. Helena, Ascension und Tristan da Cunha",
-      bg: "Света Елена, Възнесение и Тристан да Куня"
-    }
+      bg: "Света Елена, Възнесение и Тристан да Куня",
+    },
   },
   {
     name: "Svalbard and Jan Mayen",
@@ -2558,8 +2558,8 @@ const COUNTRIES = [
       es: "Svalbard y Jan Mayen",
       fr: "Svalbard et île Jan Mayen",
       de: "Svalbard und Jan Mayen",
-      bg: "Свалбард и Ян Майен"
-    }
+      bg: "Свалбард и Ян Майен",
+    },
   },
   {
     name: "Solomon Islands",
@@ -2571,8 +2571,8 @@ const COUNTRIES = [
       es: "Islas Salomón",
       fr: "Salomon, Îles",
       de: "Salomoninseln",
-      bg: "Соломонови острови"
-    }
+      bg: "Соломонови острови",
+    },
   },
   {
     name: "Sierra Leone",
@@ -2584,8 +2584,8 @@ const COUNTRIES = [
       es: "Sierra Leona",
       fr: "Sierra Leone",
       de: "Sierra Leone",
-      bg: "Сиера Леоне"
-    }
+      bg: "Сиера Леоне",
+    },
   },
   {
     name: "El Salvador",
@@ -2597,8 +2597,8 @@ const COUNTRIES = [
       es: "El Salvador",
       fr: "Salvador",
       de: "El Salvador",
-      bg: "Ел Салвадор"
-    }
+      bg: "Ел Салвадор",
+    },
   },
   {
     name: "San Marino",
@@ -2610,8 +2610,8 @@ const COUNTRIES = [
       es: "San Marino",
       fr: "Saint-Marin",
       de: "San Marino",
-      bg: "Сан Марино"
-    }
+      bg: "Сан Марино",
+    },
   },
   {
     name: "Somalia",
@@ -2623,8 +2623,8 @@ const COUNTRIES = [
       es: "Somalia",
       fr: "Somalie",
       de: "Somalia",
-      bg: "Сомалия"
-    }
+      bg: "Сомалия",
+    },
   },
   {
     name: "Saint Pierre and Miquelon",
@@ -2636,8 +2636,8 @@ const COUNTRIES = [
       es: "San Pedro y Miquelon",
       fr: "Saint-Pierre-et-Miquelon",
       de: "St. Pierre und Miquelon",
-      bg: "Свети Пиер и Микелон"
-    }
+      bg: "Свети Пиер и Микелон",
+    },
   },
   {
     name: "Serbia",
@@ -2649,8 +2649,8 @@ const COUNTRIES = [
       es: "Serbia",
       fr: "Serbie",
       de: "Serbien",
-      bg: "Сърбия"
-    }
+      bg: "Сърбия",
+    },
   },
   {
     name: "South Sudan",
@@ -2662,8 +2662,8 @@ const COUNTRIES = [
       es: "Sudán del Sur",
       fr: "Soudan du Sud",
       de: "Südsudan",
-      bg: "Южен Судан"
-    }
+      bg: "Южен Судан",
+    },
   },
   {
     name: "Sao Tome and Principe",
@@ -2675,8 +2675,8 @@ const COUNTRIES = [
       es: "Santo Tomé y Príncipe",
       fr: "Sao Tomé-et-Principe",
       de: "São Tomé und Príncipe",
-      bg: "Сао Томе и Принсипи"
-    }
+      bg: "Сао Томе и Принсипи",
+    },
   },
   {
     name: "Suriname",
@@ -2688,8 +2688,8 @@ const COUNTRIES = [
       es: "Surinám",
       fr: "Surinam",
       de: "Suriname",
-      bg: "Суринам"
-    }
+      bg: "Суринам",
+    },
   },
   {
     name: "Slovakia",
@@ -2701,8 +2701,8 @@ const COUNTRIES = [
       es: "Eslovaquia",
       fr: "Slovaquie",
       de: "Slowakei",
-      bg: "Словакия"
-    }
+      bg: "Словакия",
+    },
   },
   {
     name: "Slovenia",
@@ -2714,8 +2714,8 @@ const COUNTRIES = [
       es: "Eslovenia",
       fr: "Slovénie",
       de: "Slowenien",
-      bg: "Словения"
-    }
+      bg: "Словения",
+    },
   },
   {
     name: "Sweden",
@@ -2727,8 +2727,8 @@ const COUNTRIES = [
       es: "Suecia",
       fr: "Suède",
       de: "Schweden",
-      bg: "Швеция"
-    }
+      bg: "Швеция",
+    },
   },
   {
     name: "Eswatini",
@@ -2740,8 +2740,8 @@ const COUNTRIES = [
       es: "Suazilandia",
       fr: "Eswatini",
       de: "Eswatini",
-      bg: "Eswatini"
-    }
+      bg: "Eswatini",
+    },
   },
   {
     name: "Sint Maarten (Dutch part)",
@@ -2753,8 +2753,8 @@ const COUNTRIES = [
       es: "Isla de San Martín (zona holandsea)",
       fr: "Saint-Martin (partie néerlandaise)",
       de: "Saint-Martin (Niederländischer Teil)",
-      bg: "Синт Мартен (холандска част)"
-    }
+      bg: "Синт Мартен (холандска част)",
+    },
   },
   {
     name: "Seychelles",
@@ -2766,8 +2766,8 @@ const COUNTRIES = [
       es: "Seychelles",
       fr: "Seychelles",
       de: "Seychellen",
-      bg: "Сейшели"
-    }
+      bg: "Сейшели",
+    },
   },
   {
     name: "Syrian Arab Republic",
@@ -2779,8 +2779,8 @@ const COUNTRIES = [
       es: "República árabe de Siria",
       fr: "Syrienne, République arabe",
       de: "Syrien, Arabische Republik",
-      bg: "Сирийска арабска република"
-    }
+      bg: "Сирийска арабска република",
+    },
   },
   {
     name: "Turks and Caicos Islands",
@@ -2792,8 +2792,8 @@ const COUNTRIES = [
       es: "Islas Turcas y Caicos",
       fr: "îles Turques-et-Caïques",
       de: "Turks- und Caicosinseln",
-      bg: "Острови Тюрк и Кайкос"
-    }
+      bg: "Острови Тюрк и Кайкос",
+    },
   },
   {
     name: "Chad",
@@ -2805,8 +2805,8 @@ const COUNTRIES = [
       es: "Chad",
       fr: "Tchad",
       de: "Tschad",
-      bg: "Чад"
-    }
+      bg: "Чад",
+    },
   },
   {
     name: "Togo",
@@ -2818,8 +2818,8 @@ const COUNTRIES = [
       es: "Togo",
       fr: "Togo",
       de: "Togo",
-      bg: "Того"
-    }
+      bg: "Того",
+    },
   },
   {
     name: "Thailand",
@@ -2831,8 +2831,8 @@ const COUNTRIES = [
       es: "Tailandia",
       fr: "Thaïlande",
       de: "Thailand",
-      bg: "Тайланд"
-    }
+      bg: "Тайланд",
+    },
   },
   {
     name: "Tajikistan",
@@ -2844,8 +2844,8 @@ const COUNTRIES = [
       es: "Tayikistán",
       fr: "Tadjikistan",
       de: "Tadschikistan",
-      bg: "Таджикистан"
-    }
+      bg: "Таджикистан",
+    },
   },
   {
     name: "Tokelau",
@@ -2857,8 +2857,8 @@ const COUNTRIES = [
       es: "Tokelau",
       fr: "Tokelau",
       de: "Tokelau",
-      bg: "Токелау"
-    }
+      bg: "Токелау",
+    },
   },
   {
     name: "Turkmenistan",
@@ -2870,8 +2870,8 @@ const COUNTRIES = [
       es: "Turkmenistán",
       fr: "Turkménistan",
       de: "Turkmenistan",
-      bg: "Туркменистан"
-    }
+      bg: "Туркменистан",
+    },
   },
   {
     name: "Timor-Leste",
@@ -2883,8 +2883,8 @@ const COUNTRIES = [
       es: "Timor Oriental",
       fr: "Timor oriental",
       de: "Timor-Leste",
-      bg: "Тимор-Лест"
-    }
+      bg: "Тимор-Лест",
+    },
   },
   {
     name: "Tonga",
@@ -2896,8 +2896,8 @@ const COUNTRIES = [
       es: "Tonga",
       fr: "Tonga",
       de: "Tonga",
-      bg: "Тонга"
-    }
+      bg: "Тонга",
+    },
   },
   {
     name: "Trinidad and Tobago",
@@ -2909,8 +2909,8 @@ const COUNTRIES = [
       es: "Trinidad y Tobago",
       fr: "Trinité-et-Tobago",
       de: "Trinidad und Tobago",
-      bg: "Тринидад и Тобаго"
-    }
+      bg: "Тринидад и Тобаго",
+    },
   },
   {
     name: "Tunisia",
@@ -2922,8 +2922,8 @@ const COUNTRIES = [
       es: "Tunez",
       fr: "Tunisie",
       de: "Tunesien",
-      bg: "Тунис"
-    }
+      bg: "Тунис",
+    },
   },
   {
     name: "Turkey",
@@ -2935,8 +2935,8 @@ const COUNTRIES = [
       es: "Turquía",
       fr: "Turquie",
       de: "Türkei",
-      bg: "Турция"
-    }
+      bg: "Турция",
+    },
   },
   {
     name: "Tuvalu",
@@ -2948,8 +2948,8 @@ const COUNTRIES = [
       es: "Tuvalu",
       fr: "Tuvalu",
       de: "Tuvalu",
-      bg: "Тувалу"
-    }
+      bg: "Тувалу",
+    },
   },
   {
     name: "Taiwan, Province of China",
@@ -2961,8 +2961,8 @@ const COUNTRIES = [
       es: "Taiwán, Provincia de China",
       fr: "Taïwan, province de Chine",
       de: "Taiwan, Chinesische Provinz",
-      bg: "Тайван, Китайска провинция"
-    }
+      bg: "Тайван, Китайска провинция",
+    },
   },
   {
     name: "Tanzania, United Republic of",
@@ -2974,8 +2974,8 @@ const COUNTRIES = [
       es: "Tanzania, República unida de",
       fr: "Tanzanie, République unie de",
       de: "Tansania, Vereinigte Republik",
-      bg: "Танзания, Обединена република"
-    }
+      bg: "Танзания, Обединена република",
+    },
   },
   {
     name: "Uganda",
@@ -2987,8 +2987,8 @@ const COUNTRIES = [
       es: "Uganda",
       fr: "Ouganda",
       de: "Uganda",
-      bg: "Уганда"
-    }
+      bg: "Уганда",
+    },
   },
   {
     name: "Ukraine",
@@ -3000,8 +3000,8 @@ const COUNTRIES = [
       es: "Ucrania",
       fr: "Ukraine",
       de: "Ukraine",
-      bg: "Украйна"
-    }
+      bg: "Украйна",
+    },
   },
   {
     name: "United States Minor Outlying Islands",
@@ -3013,8 +3013,8 @@ const COUNTRIES = [
       es: "Islas Ultramarinas Menores de Estados Unidos",
       fr: "Îles mineures éloignées des États-Unis",
       de: "United States Minor Outlying Islands",
-      bg: "Обединени малки острови по крайбрежието на САЩ"
-    }
+      bg: "Обединени малки острови по крайбрежието на САЩ",
+    },
   },
   {
     name: "Uruguay",
@@ -3026,8 +3026,8 @@ const COUNTRIES = [
       es: "Uruguay",
       fr: "Uruguay",
       de: "Uruguay",
-      bg: "Уругвай"
-    }
+      bg: "Уругвай",
+    },
   },
   {
     name: "United States",
@@ -3039,8 +3039,8 @@ const COUNTRIES = [
       es: "Estados Unidos",
       fr: "États-Unis",
       de: "Vereinigte Staaten",
-      bg: "Съединени щати"
-    }
+      bg: "Съединени щати",
+    },
   },
   {
     name: "Uzbekistan",
@@ -3052,8 +3052,8 @@ const COUNTRIES = [
       es: "Uzbekistán",
       fr: "Ouzbékistan",
       de: "Usbekistan",
-      bg: "Узбекистан"
-    }
+      bg: "Узбекистан",
+    },
   },
   {
     name: "Holy See (Vatican City State)",
@@ -3065,8 +3065,8 @@ const COUNTRIES = [
       es: "Santa Sede (Ciudad Estado del Vaticano)",
       fr: "Saint-Siège (état de la cité du Vatican)",
       de: "Heiliger Stuhl (Staat Vatikanstadt)",
-      bg: "Ватикана"
-    }
+      bg: "Ватикана",
+    },
   },
   {
     name: "Saint Vincent and the Grenadines",
@@ -3078,8 +3078,8 @@ const COUNTRIES = [
       es: "San Vicente y las Granadinas",
       fr: "Saint-Vincent-et-les-Grenadines",
       de: "St. Vincent und die Grenadinen",
-      bg: "Свети Винсент и Гренадин"
-    }
+      bg: "Свети Винсент и Гренадин",
+    },
   },
   {
     name: "Venezuela, Bolivarian Republic of",
@@ -3091,8 +3091,8 @@ const COUNTRIES = [
       es: "Venezuela, República Bolivariana de",
       fr: "Vénézuela, république bolivarienne du",
       de: "Venezuela, Bolivarische Republik",
-      bg: "Венецуела, Боливарска република"
-    }
+      bg: "Венецуела, Боливарска република",
+    },
   },
   {
     name: "Virgin Islands, British",
@@ -3104,8 +3104,8 @@ const COUNTRIES = [
       es: "Islas Vírgenes, Británicas",
       fr: "Îles Vierges britanniques",
       de: "Britische Jungferninseln",
-      bg: "Вирджински острови, Британски"
-    }
+      bg: "Вирджински острови, Британски",
+    },
   },
   {
     name: "Virgin Islands, U.S.",
@@ -3117,8 +3117,8 @@ const COUNTRIES = [
       es: "Islas Vírgenes, de EEUU",
       fr: "Îles Vierges des États-Unis",
       de: "Amerikanische Jungferninseln",
-      bg: "Вирджински острови, САЩ"
-    }
+      bg: "Вирджински острови, САЩ",
+    },
   },
   {
     name: "Viet Nam",
@@ -3130,8 +3130,8 @@ const COUNTRIES = [
       es: "Vietnam",
       fr: "Viêt Nam",
       de: "Vietnam",
-      bg: "Виетнам"
-    }
+      bg: "Виетнам",
+    },
   },
   {
     name: "Vanuatu",
@@ -3143,8 +3143,8 @@ const COUNTRIES = [
       es: "Vanuatu",
       fr: "Vanuatu",
       de: "Vanuatu",
-      bg: "Вануату"
-    }
+      bg: "Вануату",
+    },
   },
   {
     name: "Wallis and Futuna",
@@ -3156,8 +3156,8 @@ const COUNTRIES = [
       es: "Wallis y Futuna",
       fr: "Wallis et Futuna",
       de: "Wallis und Futuna",
-      bg: "Острови Уолис и Футуна"
-    }
+      bg: "Острови Уолис и Футуна",
+    },
   },
   {
     name: "Samoa",
@@ -3169,8 +3169,8 @@ const COUNTRIES = [
       es: "Samoa",
       fr: "Samoa",
       de: "Samoa",
-      bg: "Самоа"
-    }
+      bg: "Самоа",
+    },
   },
   {
     name: "Yemen",
@@ -3182,8 +3182,8 @@ const COUNTRIES = [
       es: "Yemen",
       fr: "Yémen",
       de: "Jemen",
-      bg: "Йемен"
-    }
+      bg: "Йемен",
+    },
   },
   {
     name: "South Africa",
@@ -3195,8 +3195,8 @@ const COUNTRIES = [
       es: "Sudáfrica",
       fr: "Afrique du Sud",
       de: "Südafrika",
-      bg: "Южна Африка"
-    }
+      bg: "Южна Африка",
+    },
   },
   {
     name: "Zambia",
@@ -3208,8 +3208,8 @@ const COUNTRIES = [
       es: "Zambia",
       fr: "Zambie",
       de: "Sambia",
-      bg: "Замбия"
-    }
+      bg: "Замбия",
+    },
   },
   {
     name: "Zimbabwe",
@@ -3221,8 +3221,8 @@ const COUNTRIES = [
       es: "Zimbabue",
       fr: "Zimbabwe",
       de: "Simbabwe",
-      bg: "Зимбабве"
-    }
+      bg: "Зимбабве",
+    },
   },
 ];
 
